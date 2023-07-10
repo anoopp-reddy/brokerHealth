@@ -1,2 +1,2 @@
-# Script to check broker health using Kcat
+# Bash Script to check broker health using Kcat
 # brokerHealth
